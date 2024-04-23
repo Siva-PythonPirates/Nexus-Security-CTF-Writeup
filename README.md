@@ -44,7 +44,7 @@ Just Write `globals()` when you are prompted!
 
 ### 6. Home Sweet Home
 #### Approach :
-Web Challenge... In this after exploiting many possible directories I found that the url ![](http://chall.ycfteam.in:5252/.bash_history) is accessible. 
+Web Challenge... In this after exploiting many possible directories I found that the url ![http://chall.ycfteam.in:5252/.bash_history](http://chall.ycfteam.in:5252/.bash_history) is accessible. 
 
 ![image](https://github.com/Siva-PythonPirates/Nexus-Security-CTF-Writeup/assets/79368311/a943c828-5d45-44cc-8075-173514333d70)
 
